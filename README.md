@@ -47,7 +47,7 @@ https://prometheusapi.herokuapp.com/docs/
 -  Postman
 ##  Hospedagem
 - Back-end: Heroku
-- Front-end: Netlify
+- Front-end: Vercel
 
 
 # Como executar o projeto
