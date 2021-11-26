@@ -21,7 +21,7 @@ const Cursos: React.FC = () => {
   const {getCourses, data} = useCourse()
 
   useEffect(()=>{
-    getCourses(16,actualPage)
+    getCourses(10,actualPage)
   },[actualPage])
   
   useEffect(()=>{
